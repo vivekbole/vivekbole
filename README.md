@@ -1,4 +1,8 @@
 ## Hi there 👋
+My Goal is to pursue knowledge about everything  !
+-  I’m looking for help with tutoring me about tech and many more
+   - ⚡ Fun fact: I am a Fast Learner
+  
 
 <!--
 **vivekbole/vivekbole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
